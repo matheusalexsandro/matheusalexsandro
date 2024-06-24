@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 👋
 
-<!--
-**matheusalexsandro/matheusalexsandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é matheus alexsandro
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na liguagem JavaScript
+- utilizo esse espaço para minha organizaçao e compartilhamento dos meus projeto desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce entra em contato comigo 📫
+
+00001114665782sp@al.educacao.sp.gov.br
+
+@matheusalexsandro
+
+![](https://media1.tenor.com/m/mCiM7CmGGI4AAAAC/naruto.gif)
